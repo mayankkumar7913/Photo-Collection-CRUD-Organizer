@@ -69,4 +69,4 @@ The project relies only on the Python Standard Library:
 - datetime: For handling date input and setting the current date.
 
   # Author:
-  Vishwa Namdeo Badgujar
+  Mayank Kumar
